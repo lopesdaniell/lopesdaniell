@@ -1,6 +1,6 @@
-⚡ Estudante de Engenharia Elétrica na Universidade Federal do Vale do São Francisco - UNIVASF
+⚡ Electrical Engineering student at Federal University of the São Francisco Valley - UNIVASF
 
-🌱 No momento estou aprendendo Ciência de Dados e Machine Learning
+🌱 I am currently learning Data Science and Machine Learning
 
 <div align="center">
   <a href="https://github.com/vlwdan">
