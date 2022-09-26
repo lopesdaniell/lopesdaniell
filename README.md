@@ -4,4 +4,4 @@
 
 - 🌱 I’m currently working as an IT Intern at [Ibacem](https://www.ibacem.com.br)
 
-- 📚 I'm currently studying **Data Science** and **Web Development**
+- 📚 I'm currently studying **Web Development** and **Data Science**
