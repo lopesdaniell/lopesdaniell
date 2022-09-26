@@ -6,7 +6,10 @@
 
 - 📚 I'm currently studying **Web Development** and **Data Science**
 
-
+<div align="center">
+  <a href="https://github.com/lopesdaniell">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesdaniell&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
   [//]: <> (<img align="center" alt="Dan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Dan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
