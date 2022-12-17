@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working as an IT Intern at [Ibacem](https://www.ibacem.com.br)
 
-- 📚 I'm currently studying **Web Development** and **Data Science**
+- 📚 I'm currently studying **Mobile Development** and **Data Science**
 
 <div align="center">
   <a href="https://github.com/lopesdaniell">
