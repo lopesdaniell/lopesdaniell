@@ -2,9 +2,9 @@
 
 - ⚡ Electrical Engineering student at Federal University of the São Francisco Valley - UNIVASF
 
-- 🌱 I’m currently working as an IT Intern at [Ibacem](https://www.ibacem.com.br)
+- ✈ I’m currently working as an IT Intern at [Embraer](https://embraer.com/global/en)
 
-- 📚 I'm currently studying **Mobile Development** and **Data Science**
+- 📚 I'm currently studying **Data Science** 
 
 <div align="center">
   <a href="https://github.com/lopesdaniell">
