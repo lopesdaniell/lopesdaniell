@@ -1,6 +1,6 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Daniel Lopes</h1>
+<h1 align="left">👨‍💻 Daniel Lopes</h1>
 
-- 👨‍💻 Estudante de Engenharia Elétrica na Universidade Federal do Vale do São Francisco - [UNIVASF](https://portais.univasf.edu.br/)
+- 📚 Estudante de Engenharia Elétrica na Universidade Federal do Vale do São Francisco - [UNIVASF](https://portais.univasf.edu.br/)
 - ✈ Atualmente, sou Estagiário de Dados/BI na [Embraer](https://embraer.com/global/en)
 
 ## Projetos de Análise e Ciência de Dados:
