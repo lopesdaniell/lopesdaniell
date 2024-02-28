@@ -1,7 +1,7 @@
-<h1 align="left">👨‍💻 Daniel Lopes</h1>
+<h1 align="left">Daniel Lopes</h1>
 
 - 📚 Estudante de Engenharia Elétrica na Universidade Federal do Vale do São Francisco - [UNIVASF](https://portais.univasf.edu.br/)
-- ✈ Atualmente, sou Estagiário de Dados/BI na [Embraer](https://embraer.com/global/en)
+- ✈ Estagiário de Dados/BI na [Embraer](https://embraer.com/global/en)
 
 ## Hard Skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
