@@ -3,13 +3,6 @@
 - 📚 Estudante de Engenharia Elétrica na Universidade Federal do Vale do São Francisco - [UNIVASF](https://portais.univasf.edu.br/)
 - ✈ Atualmente, sou Estagiário de Dados/BI na [Embraer](https://embraer.com/global/en)
 
-## Projetos de Análise e Ciência de Dados:
-
-- Desenvolvimento de dashboards (Power BI) para a área de Infraestrutura e Suporte de TI (Net Promoter Score, N1 Services, Desktop Management, PCaaS, AMS, Change Management).
-- Desenvolvimento de dashboards (Power BI) para setor Industrial (PCP, Vendas, Logística, Gestão Orçamentária, e Financeiro).
-- Criação de queries (SQL Server) em base de dados do ERP TOTVS Protheus.
-- Estudo de modelos de Machine Learning, a partir dos dados de acidentes envolvendo motocicletas atendidos no Hospital Universitário da UNIVASF.
-
 ## Hard Skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -25,9 +18,4 @@
 - Bancos de Dados Relacionais: SQL Server, Oracle
 - Modelagem: Relacional, Dimensional
 - Ferramentas de apoio: Power Apps, Power Automate, Excel, Git, Python para análise de dados
-- Estudos autônomos: Cloud
-
-<div align="center">
-  <a href="https://github.com/lopesdaniell">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesdaniell&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+- Estudos autônomos: AWS
